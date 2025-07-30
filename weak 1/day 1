@@ -1,0 +1,33 @@
+Pseudo Code:
+x = 255
+y = 256
+z = (x | y) div 10
+w = (x ^ y) div 10
+final_result = (w + z) % 1000
+print(final_result)
+// What is the value of 'final_result'?
+Options:
+
+a) 4
+b) 255
+c) 256
+d) 102
+print the right answer using standanrd output in any programming language
+
+suppose option a) is right answer in Python use 'print(4)'
+
+Input Format
+
+NA
+
+Constraints
+
+NA
+
+Output Format
+
+NA
+
+
+
+  
